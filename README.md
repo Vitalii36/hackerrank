@@ -1,7 +1,7 @@
 # www.hackerrank.com
 
 ## Motivation
-Solve so many problems to automate this process (practice)
+Solve so many problems to automate this process of solving problems (practice)
 
 ## About
 
